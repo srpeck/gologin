@@ -1,0 +1,11 @@
+Gologin is a server-side web application with secure cookie user authentication and persistent account information.
+
+go get github.com/srpeck/gologin
+go build; ./gologin
+https://localhost:8080
+
+Gorilla secure cookies
+bcrypt password encryption
+OpenSSL certificates for HTTPS
+Goji web server
+PostgreSQL database
